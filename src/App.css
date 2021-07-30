@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.snake-area {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  border: 2px solid #000;
+}
+
+.snake-dot {
+  position: absolute;
+  width: 2%;
+  height: 2%;
+  background-color: #000;
+  border: 1px solid #fff;
+  z-index: 2;
+}
+
+.snake-food {
+  position: absolute;
+  width: 2%;
+  height: 2%;
+  background-color: red;
+  border: 1px solid #fff;
+  z-index: 1;
+}
