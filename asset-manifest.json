@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Liza-Cheptsova/static/css/main.3c82837a.chunk.css",
-    "main.js": "/Liza-Cheptsova/static/js/main.cd414e67.chunk.js",
-    "main.js.map": "/Liza-Cheptsova/static/js/main.cd414e67.chunk.js.map",
-    "runtime-main.js": "/Liza-Cheptsova/static/js/runtime-main.842eccfc.js",
-    "runtime-main.js.map": "/Liza-Cheptsova/static/js/runtime-main.842eccfc.js.map",
-    "static/js/2.a40e8c03.chunk.js": "/Liza-Cheptsova/static/js/2.a40e8c03.chunk.js",
-    "static/js/2.a40e8c03.chunk.js.map": "/Liza-Cheptsova/static/js/2.a40e8c03.chunk.js.map",
-    "static/js/3.0776587d.chunk.js": "/Liza-Cheptsova/static/js/3.0776587d.chunk.js",
-    "static/js/3.0776587d.chunk.js.map": "/Liza-Cheptsova/static/js/3.0776587d.chunk.js.map",
-    "index.html": "/Liza-Cheptsova/index.html",
-    "static/css/main.3c82837a.chunk.css.map": "/Liza-Cheptsova/static/css/main.3c82837a.chunk.css.map",
-    "static/js/2.a40e8c03.chunk.js.LICENSE.txt": "/Liza-Cheptsova/static/js/2.a40e8c03.chunk.js.LICENSE.txt"
+    "main.css": "/snake-game/static/css/main.3c82837a.chunk.css",
+    "main.js": "/snake-game/static/js/main.cd414e67.chunk.js",
+    "main.js.map": "/snake-game/static/js/main.cd414e67.chunk.js.map",
+    "runtime-main.js": "/snake-game/static/js/runtime-main.391d6b20.js",
+    "runtime-main.js.map": "/snake-game/static/js/runtime-main.391d6b20.js.map",
+    "static/js/2.a40e8c03.chunk.js": "/snake-game/static/js/2.a40e8c03.chunk.js",
+    "static/js/2.a40e8c03.chunk.js.map": "/snake-game/static/js/2.a40e8c03.chunk.js.map",
+    "static/js/3.0776587d.chunk.js": "/snake-game/static/js/3.0776587d.chunk.js",
+    "static/js/3.0776587d.chunk.js.map": "/snake-game/static/js/3.0776587d.chunk.js.map",
+    "index.html": "/snake-game/index.html",
+    "static/css/main.3c82837a.chunk.css.map": "/snake-game/static/css/main.3c82837a.chunk.css.map",
+    "static/js/2.a40e8c03.chunk.js.LICENSE.txt": "/snake-game/static/js/2.a40e8c03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.842eccfc.js",
+    "static/js/runtime-main.391d6b20.js",
     "static/js/2.a40e8c03.chunk.js",
     "static/css/main.3c82837a.chunk.css",
     "static/js/main.cd414e67.chunk.js"
